@@ -6,7 +6,6 @@
 📧 rn.mukwevho@gmail.com
 
 
-
 💡 About Me
 
 I am a Computer Science graduate from the University of Venda, passionate about building impactful solutions through innovation and problem-solving using modern technologies.
