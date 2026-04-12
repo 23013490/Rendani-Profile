@@ -23,15 +23,11 @@
 
 ## 🌱 Currently Learning
 
-- 🔐 Cybersecurity Fundamentals (Network Security, Threat Detection, OWASP Top 10)  
+- 🔐 Cybersecurity Fundamentals (Network Security, Threat Detection)  
 - ⚙️ Backend Engineering (Advanced Spring Boot & Django REST APIs)  
 - 🐳 Docker & Containerization  
 - ☁️ Cloud Computing (AWS Basics)  
 - 🧠 Data Structures & Algorithms (Problem Solving Practice)  
-
-
-
-
 
 
 
