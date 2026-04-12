@@ -1,9 +1,5 @@
 
 
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=23013490&theme=tokyonight)
-
 
 <!-- HEADER / BANNER -->
 <h1 align="center">Hi 👋, I'm Rendani Mukwevho</h1>
