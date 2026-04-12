@@ -1,80 +1,143 @@
 # Rendani-Profile
 
-Hello there,I'M Rendani Mukwevho
+👋 Hi, I'm Rendani Mukwevho
 
-Thohoyandou,Limpopo,South Africa
+📍 Thohoyandou, Limpopo, South Africa
+📧 rn.mukwevho@gmail.com
 
-rn.mukwevho@gmail.com
+🔗 LinkedIn
+ | GitHub
 
-Linkedin: https://www.linkedin.com/in/rendani-mukwevho-7169602a0/ |GITHUB: https://github.com/23013490/
+💡 About Me
 
-ABOUT ME
+I am a Computer Science graduate from the University of Venda, passionate about building impactful solutions through innovation and problem-solving using modern technologies.
 
- I am a Computer Science Graduate from University of Venda,Who is willing to make an impact through innovation,problem solving using Modern Technologies.
- I'm interested in CyberSecurity,Sofware Engineering such as Web Development or BackEnd Engineer.
+My primary interests include:
+
+🔐 Cybersecurity
+💻 Software Engineering
+🌐 Web Development
+⚙️ Backend Development
+
+I am continuously improving my technical skills and seeking opportunities to contribute to real-world projects.
+
+🛠️ Tech Stack
+💻 Programming Languages
+Java
+Python
+SQL
+JavaScript
+C++
+⚙️ Backend Technologies
+Django
+Spring Boot
+REST APIs
+🗄️ Databases & Tools
+MySQL
+Firebase
+Git & GitHub
+🎨 Frontend Technologies
+HTML
+CSS
+JavaScript
+Bootstrap
+🚀 Featured Projects
+🛒 Atchar E-Commerce Website
+
+University of Venda Project
+
+Designed a clean UI using Figma
+Developed a full-stack web application for selling atchar products
+Implemented user authentication (signup/login)
+Integrated MySQL database for data storage
+Built admin functionality for managing customer orders
+Used class diagrams for system design
+🏠 Student Accommodation System
+
+Team Project
+
+Developed a platform for students to book residences
+Included listings such as Mvela Phanda and Riverside residences
+Focused on improving accessibility and booking efficiency
+🎮 Sorting Algorithms Visualizer Game
+
+Team Project
+
+Implemented algorithms: Merge Sort, Quick Sort, Selection Sort, Bubble Sort
+Responsible for debugging and testing
+Built using Java
+Strengthened understanding of algorithm efficiency and logic
+
+🔐 Cybersecurity Awareness Platform (Hackathon Project)
+Developed a web application to detect:
+Phishing emails
+Unsafe URLs
+Integrated an AI-based scanning system
+Focused on improving user safety online
+Built under time constraints (3-day hackathon)
 
 
-TECH STACK
-
-Languages
-JAVA,Python,SQL,JavaScript,C++
-
-Backend FrameWorks
-
-Django,Spring Boot,Rest API
-
-Databases & Tools
-
-MYSQL,FireBase
-
-Front End Tech.
-
-HTML,CSS,JavaScript,Bootstrap,GIT & GITHUB
-
-Featured Projects
-
-Atchar Website(University OF Venda)
-
-Description
-
-Created a clean userinterface using Figma and used Front end Technology to create website that has atchar products ranging from small,medium,large 
-- with different prices based on University Of Venda Students.A Customer is able to  create an account for buying the product and able to login through the
-- -System.The Website has a relational database such as Mysql for storing data.An Admin is able to login through the system and manage the customers
-- orders on the system.
-- We used class diagrams to understand how data works through out the system.
-
-1.Student Accomodation(University Of Venda)
-
-As a team we created a student accomodation system that helps student able to book residents for universities such as Mvela Phanda residents and RiverSide residents.
-
-2.Game for Sorting Algorithms(Merge Sort,Quick Sort,Selection Sort,Bubble Sort)
-As a team i was responsible for testing the project by debugging through out the code.We used java to create sorting algorithms which was not easy at all.
-
-3.CyberSecurity For Safety Of Users(Hackathon Project)
-I participated in a hackathon for 3 days, responsible for developing a website which will assist users to identify phishing emails,unsafe links by using an AI
-Scanner responsible for detecting phishing emails and unsafe urls.
-
-Certifications
-CSIR CERTIFICATE
-1. I recieved a certificate  for hackathon partipation which occured at CSIR from 8-10 December 2025.
-I learnt problem solving,communication,and time management.
-
-2.FNB APP ACADEMY
-I received a certificate of participation for 9 weeks at Fnb App Academy,which occured from june to july 2025 last year.I learnt front end technologies,backend technologies,API,and also entrepenuership.
+📜 Certifications
+🏆 CSIR Hackathon Certificate
+Participated: 8–10 December 2025
+Gained skills in:
+Problem-solving
+Communication
+Time management
 
 
-EDUCATION
-Bachelor Of Science in Computer Sciences   2023-2025
-University Of Venda
-Status: Completed
-Key Focus areas
-Artificial Intelligence ,Advanced Algorithms,Databases,Operating Systems
+📱 FNB App Academy
+Duration: June – July 2025 (9 weeks)
+Learned:
+Frontend & backend development
+API integration
+Entrepreneurship fundamentals
 
-LET'S Connect
 
-Email:rn.mukwevho@gmail.com
-Linkedin: https://www.linkedin.com/in/rendani-mukwevho-7169602a0
-Github: https://github.com/23013490
+🎓 Education
+
+Bachelor of Science in Computer Science
+University of Venda (2023 – 2025)
+✅ Status: Completed
+
+Key Focus Areas:
+
+Artificial Intelligence
+Advanced Algorithms
+Databases
+Operating Systems
+
+🤝 Let's Connect
+
+📧 Email: rn.mukwevho@gmail.com
+
+🔗 LinkedIn: https://www.linkedin.com/in/rendani-mukwevho-7169602a0
+
+💻 GitHub: https://github.com/23013490
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
