@@ -10,27 +10,42 @@
 
 I am a Computer Science graduate from the University of Venda, passionate about building impactful solutions through innovation and problem-solving using modern technologies.
 
+
+
 My primary interests include:
 
 🔐 Cybersecurity
+
 💻 Software Engineering
+
 🌐 Web Development
+
 ⚙️ Backend Development
 
 I am continuously improving my technical skills and seeking opportunities to contribute to real-world projects.
 
+
+
 🛠️ Tech Stack
+
+
 💻 Programming Languages
 Java,Python,SQL,JavaScript,C++
+
 
 ⚙️ Backend Technologies
 Django,Spring Boot,REST APIs
 
+
 🗄️ Databases & Tools
 MySQL,Firebase,Git & GitHub
 
+
+
 🎨 Frontend Technologies
 HTML,CSS,JavaScript,Bootstrap
+
+
 
 🚀 Featured Projects
 🛒 Atchar E-Commerce Website(University of Venda Project)
@@ -47,11 +62,17 @@ Built admin functionality for managing customer orders
 
 Used class diagrams for system design
 
+
+
+
 🏠 Student Accommodation System(Team Project)
 
 Developed a platform for students to book residences
 Included listings such as Mvela Phanda and Riverside residences
 Focused on improving accessibility and booking efficiency
+
+
+
 
 🎮 Sorting Algorithms Visualizer Game (Team Project)
 
@@ -62,6 +83,9 @@ Responsible for debugging and testing
 Built using Java
 
 Strengthened understanding of algorithm efficiency and logic
+
+
+
 
 🔐 Cybersecurity Awareness Platform (Hackathon Project)
 
@@ -78,7 +102,11 @@ Focused on improving user safety online
 Built under time constraints (3-day hackathon)
 
 
+
+
 📜 Certifications
+
+
 
 🏆 CSIR Hackathon Certificate
 
@@ -91,6 +119,7 @@ Problem-solving
 Communication
 
 Time management
+
 
 
 📱 FNB App Academy
@@ -106,7 +135,11 @@ API integration
 Entrepreneurship fundamentals
 
 
+
+
 🎓 Education
+
+
 
 Bachelor of Science in Computer Science
 University of Venda (2023 – 2025)
@@ -115,6 +148,9 @@ University of Venda (2023 – 2025)
 Key Focus Areas:
 
 Artificial Intelligence,Advanced Algorithms,Databases,Operating Systems
+
+
+
 
 🤝 Let's Connect
 
