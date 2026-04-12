@@ -57,15 +57,17 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ---
-
-<img src="https://github-readme-stats.vercel.app/api?username=23013490&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-
+##📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=23013490&show_icons=true&theme=tokyonight&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=23013490&layout=compact&theme=tokyonight&cache_seconds=1800" />
+</p>
 ---
 
 ## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=23013490&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=23013490&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
@@ -73,7 +75,7 @@
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=23013490&theme=tokyonight&row=1&column=6" />
+  <img src="https://github-profile-trophy.vercel.app/?username=23013490&theme=tokyonight&no-frame=true&margin-w=10" />
 </p>
 
 ---
