@@ -6,6 +6,16 @@
 📧 rn.mukwevho@gmail.com
 
 
+
+
+## 📊 GitHub Stats
+
+![Rendani's GitHub stats](https://github-readme-stats.vercel.app/api?username=23013490&show_icons=true&theme=tokyonight)
+
+
+
+
+
 💡 About Me
 
 I am a Computer Science graduate from the University of Venda, passionate about building impactful solutions through innovation and problem-solving using modern technologies.
