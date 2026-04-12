@@ -43,11 +43,40 @@ Created a clean userinterface using Figma and used Front end Technology to creat
 - orders on the system.
 - We used class diagrams to understand how data works through out the system.
 
-Student Accomodation(University Of Venda)
+1.Student Accomodation(University Of Venda)
 
-Game for Sorting Algorithms(Merge Sort,Quick Sort,Selection Sort,Bubble Sort)
+As a team we created a student accomodation system that helps student able to book residents for universities such as Mvela Phanda residents and RiverSide residents.
 
-CyberSecurity For Safety Of Users(Hackathon Project)
+2.Game for Sorting Algorithms(Merge Sort,Quick Sort,Selection Sort,Bubble Sort)
+As a team i was responsible for testing the project by debugging through out the code.We used java to create sorting algorithms which was not easy at all.
+
+3.CyberSecurity For Safety Of Users(Hackathon Project)
+I participated in a hackathon for 3 days, responsible for developing a website which will assist users to identify phishing emails,unsafe links by using an AI
+Scanner responsible for detecting phishing emails and unsafe urls.
+
+Certifications
+CSIR CERTIFICATE
+1. I recieved a certificate  for hackathon partipation which occured at CSIR from 8-10 December 2025.
+I learnt problem solving,communication,and time management.
+
+2.FNB APP ACADEMY
+I received a certificate of participation for 9 weeks at Fnb App Academy,which occured from june to july 2025 last year.I learnt front end technologies,backend technologies,API,and also entrepenuership.
+
+
+EDUCATION
+Bachelor Of Science in Computer Sciences   2023-2025
+University Of Venda
+Status: Completed
+Key Focus areas
+Artificial Intelligence ,Advanced Algorithms,Databases,Operating Systems
+
+LET'S Connect
+
+Email:rn.mukwevho@gmail.com
+Linkedin: https://www.linkedin.com/in/rendani-mukwevho-7169602a0
+Github: https://github.com/23013490
+
+
 
 
  
