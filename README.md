@@ -11,6 +11,13 @@
 ## 📊 GitHub Stats
 
 ![Rendani's GitHub stats](https://github-readme-stats.vercel.app/api?username=23013490&show_icons=true&theme=tokyonight)
+## 🌐 Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=23013490&layout=compact&theme=tokyonight)
+
+## 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=23013490&theme=tokyonight)
 
 
 
