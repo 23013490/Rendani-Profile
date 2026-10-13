@@ -24,7 +24,7 @@
 ## 🌱 Currently Learning
 
 - 🔐 Cybersecurity Fundamentals (Network Security, Threat Detection)  
-- ⚙️ Backend Engineering (Advanced Spring Boot & Django REST APIs)  
+- ⚙️ Backend Engineering (Advanced Spring Boot & REST APIs)  
 - 🐳 Docker & Containerization  
 - ☁️ Cloud Computing (AWS Basics)  
 - 🧠 Data Structures & Algorithms (Problem Solving Practice)  
@@ -82,7 +82,7 @@
 
 ## 🚀 Featured Projects
 
-### 🛒 Atchar E-Commerce Website
+### 🛒 Full Stack Atchar website
 - Full-stack web application  
 - User authentication & admin dashboard  
 - MySQL database integration  
@@ -95,7 +95,7 @@
 - Implemented Merge, Quick, Bubble, Selection Sort  
 - Focused on debugging & testing  
 
-### 🔐 Cybersecurity Awareness Platform
+### 🔐 CSIR CYBERSECURITY HACKATHON
 - Detects phishing emails & unsafe URLs  
 - AI-based scanning system  
 
@@ -103,8 +103,11 @@
 
 ## 📜 Certifications
 
-- 🏆 CSIR Hackathon (Dec 2025)  
-- 📱 FNB App Academy (2025)  
+- CSIR Hackathon (Dec 2025)  
+- FNB App Academy (2025)
+- HexSofwares WebDevelopment Certificate
+- AI Orchestrate Hackerrank (May Certificate)
+- AI Orchestrate Hackerank (September Certificate)
 
 ---
 
